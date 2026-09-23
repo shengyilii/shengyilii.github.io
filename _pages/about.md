@@ -6,13 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal website!
+Hi, I’m Shengyi Li, a first-year Ph.D. student in Statistics and Data Science at Yale University.
 
-My name is Shengyi Li (李晟怡). I am a second-year master's student in Biostatistics at the Johns Hopkins Bloomberg School of Public Health, advised by [Dr. Yiqun T. Chen](https://yiqunchen.github.io/) and [Dr. Stephanie Hicks](https://www.stephaniehicks.com/).
+Before joining Yale, I was a master’s student in Biostatistics at Johns Hopkins University, where I was advised by <a href="https://yiqunchen.github.io/" style="text-decoration: none;">Yiqun T. Chen</a> and <a href="https://www.stephaniehicks.com/" style="text-decoration: none;">Stephanie Hicks</a>. I received my BSc (Hons) in Statistics from the University of Nottingham.
 
-My research interests lie in high-dimensional statistics, with a focus on bridging theoretical and empirical aspects of machine learning.
-
-🎓 Education
-------
-- ScM in Biostatistics, Johns Hopkins University (2024 - 2026)  
-- BSc (Hons) in Statistics, University of Nottingham (2020 - 2024) 
+My research interests focus on bridging theoretical and empirical perspectives in artificial intelligence.
